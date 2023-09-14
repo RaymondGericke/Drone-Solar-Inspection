@@ -22,3 +22,4 @@ E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone Sola
 E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone Solar Observation.csproj.CoreCompileInputs.cache
 E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone Solar Observation.exe
 E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone Solar Observation.pdb
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone_Solar_Observation.Field_Inspection.resources

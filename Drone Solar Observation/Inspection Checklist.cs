@@ -145,7 +145,9 @@ namespace Drone_Solar_Observation
 
         private void btnNext_Click(object sender, EventArgs e)
         {
-
+            Field_Inspection field_Inspection = new Field_Inspection();
+            field_Inspection.Show();
+            this.Hide();
         }
     }
 }

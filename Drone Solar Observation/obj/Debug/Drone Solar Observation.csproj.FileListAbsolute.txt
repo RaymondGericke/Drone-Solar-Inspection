@@ -10,3 +10,15 @@ E:\Projects\Drone Solar Observation\obj\Debug\Drone Solar Observation.csproj.Cor
 E:\Projects\Drone Solar Observation\obj\Debug\Drone Solar Observation.exe
 E:\Projects\Drone Solar Observation\obj\Debug\Drone Solar Observation.pdb
 E:\Projects\Drone Solar Observation\obj\Debug\Drone_Solar_Observation.Inspection_Checklist.resources
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\bin\Debug\Drone Solar Observation.exe.config
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\bin\Debug\Drone Solar Observation.exe
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\bin\Debug\Drone Solar Observation.pdb
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone Solar Observation.csproj.AssemblyReference.cache
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone_Solar_Observation.Form1.resources
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone_Solar_Observation.Form2.resources
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone_Solar_Observation.Inspection_Checklist.resources
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone_Solar_Observation.Properties.Resources.resources
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone Solar Observation.csproj.GenerateResource.cache
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone Solar Observation.csproj.CoreCompileInputs.cache
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone Solar Observation.exe
+E:\Projects\Drone-Solar-Observation\Drone Solar Observation\obj\Debug\Drone Solar Observation.pdb

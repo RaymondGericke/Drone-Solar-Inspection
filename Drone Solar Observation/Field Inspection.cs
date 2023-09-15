@@ -16,5 +16,17 @@ namespace Drone_Solar_Observation
         {
             InitializeComponent();
         }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            // Loop through all CheckBox controls and set their Checked property to false
+            foreach (Control control in Controls)
+            {
+                if (control is CheckBox checkBox)
+                {
+                    checkBox.Checked = false;
+                }
+            }
+        }
     }
 }

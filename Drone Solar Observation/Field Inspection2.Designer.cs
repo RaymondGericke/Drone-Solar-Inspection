@@ -698,6 +698,7 @@
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.gbOptions);
             this.Name = "Field_Inspection2";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Field_Inspection2";
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();

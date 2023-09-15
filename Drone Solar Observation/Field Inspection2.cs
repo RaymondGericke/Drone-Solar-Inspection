@@ -19,9 +19,7 @@ namespace Drone_Solar_Observation
 
         private void btnNext_Click(object sender, EventArgs e)
         {
-            Field_Inspection2 field_Inspection2 = new Field_Inspection2();
-            field_Inspection2.Show();
-            this.Hide();
+            //
         }
     }
 }

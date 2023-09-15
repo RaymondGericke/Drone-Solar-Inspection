@@ -20,14 +20,42 @@ namespace Drone_Solar_Observation
         private void btnClear_Click(object sender, EventArgs e)
         {
             rtbNotes.Clear();
-            // Loop through all CheckBox controls and set their Checked property to false
-            foreach (Control control in Controls)
-            {
-                if (control is CheckBox checkBox)
-                {
-                    checkBox.Checked = false;
-                }
-            }
+            checkBox1.Checked = false;
+            checkBox2.Checked = false;
+            checkBox3.Checked = false;
+            checkBox4.Checked = false;
+            checkBox5.Checked = false;
+            checkBox6.Checked = false;
+            checkBox7.Checked = false;
+            checkBox8.Checked = false;
+            checkBox9.Checked = false;
+            checkBox10.Checked = false;
+            checkBox11.Checked = false;
+            checkBox12.Checked = false;
+            checkBox13.Checked = false;
+            checkBox14.Checked = false;
+            checkBox15.Checked = false;
+            checkBox16.Checked = false;
+            checkBox17.Checked = false;
+            checkBox18.Checked = false;
+            checkBox19.Checked = false;
+            checkBox20.Checked = false;
+            checkBox21.Checked = false;
+            checkBox22.Checked = false;
+            checkBox23.Checked = false;
+            checkBox24.Checked = false;
+            checkBox25.Checked = false;
+            checkBox26.Checked = false;
+            checkBox27.Checked = false;
+            checkBox28.Checked = false;
+            checkBox29.Checked = false;
+            checkBox30.Checked = false;
+            checkBox31.Checked = false;
+            checkBox32.Checked = false;
+            checkBox33.Checked = false;
+            checkBox34.Checked = false;
+            checkBox35.Checked = false;
+            checkBox36.Checked = false;
         }
 
         private void lblICL_Click(object sender, EventArgs e)

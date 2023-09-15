@@ -31,67 +31,19 @@
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.checkBox76 = new System.Windows.Forms.CheckBox();
-            this.checkBox77 = new System.Windows.Forms.CheckBox();
-            this.checkBox78 = new System.Windows.Forms.CheckBox();
-            this.checkBox73 = new System.Windows.Forms.CheckBox();
-            this.checkBox74 = new System.Windows.Forms.CheckBox();
-            this.checkBox75 = new System.Windows.Forms.CheckBox();
-            this.checkBox37 = new System.Windows.Forms.CheckBox();
-            this.checkBox38 = new System.Windows.Forms.CheckBox();
-            this.checkBox39 = new System.Windows.Forms.CheckBox();
-            this.checkBox40 = new System.Windows.Forms.CheckBox();
-            this.textBox16 = new System.Windows.Forms.TextBox();
             this.textBox14 = new System.Windows.Forms.TextBox();
             this.textBox13 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
-            this.checkBox41 = new System.Windows.Forms.CheckBox();
-            this.checkBox42 = new System.Windows.Forms.CheckBox();
-            this.checkBox43 = new System.Windows.Forms.CheckBox();
-            this.checkBox44 = new System.Windows.Forms.CheckBox();
-            this.checkBox46 = new System.Windows.Forms.CheckBox();
-            this.checkBox47 = new System.Windows.Forms.CheckBox();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
-            this.checkBox45 = new System.Windows.Forms.CheckBox();
             this.textBox8 = new System.Windows.Forms.TextBox();
-            this.checkBox48 = new System.Windows.Forms.CheckBox();
-            this.checkBox49 = new System.Windows.Forms.CheckBox();
-            this.checkBox50 = new System.Windows.Forms.CheckBox();
-            this.checkBox51 = new System.Windows.Forms.CheckBox();
-            this.checkBox52 = new System.Windows.Forms.CheckBox();
-            this.checkBox53 = new System.Windows.Forms.CheckBox();
-            this.checkBox54 = new System.Windows.Forms.CheckBox();
-            this.checkBox55 = new System.Windows.Forms.CheckBox();
-            this.textBox18 = new System.Windows.Forms.TextBox();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.textBox17 = new System.Windows.Forms.TextBox();
             this.textBox7 = new System.Windows.Forms.TextBox();
-            this.checkBox56 = new System.Windows.Forms.CheckBox();
-            this.checkBox57 = new System.Windows.Forms.CheckBox();
-            this.checkBox58 = new System.Windows.Forms.CheckBox();
-            this.checkBox59 = new System.Windows.Forms.CheckBox();
-            this.checkBox60 = new System.Windows.Forms.CheckBox();
-            this.checkBox61 = new System.Windows.Forms.CheckBox();
-            this.checkBox62 = new System.Windows.Forms.CheckBox();
-            this.checkBox63 = new System.Windows.Forms.CheckBox();
-            this.checkBox64 = new System.Windows.Forms.CheckBox();
-            this.checkBox65 = new System.Windows.Forms.CheckBox();
-            this.checkBox66 = new System.Windows.Forms.CheckBox();
-            this.checkBox67 = new System.Windows.Forms.CheckBox();
-            this.textBox20 = new System.Windows.Forms.TextBox();
             this.tbPTFI = new System.Windows.Forms.TextBox();
             this.textBox11 = new System.Windows.Forms.TextBox();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.textBox9 = new System.Windows.Forms.TextBox();
-            this.checkBox68 = new System.Windows.Forms.CheckBox();
             this.btnNext = new System.Windows.Forms.Button();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.textBox26 = new System.Windows.Forms.TextBox();
             this.textBox12 = new System.Windows.Forms.TextBox();
-            this.checkBox69 = new System.Windows.Forms.CheckBox();
             this.checkBox70 = new System.Windows.Forms.CheckBox();
             this.checkBox71 = new System.Windows.Forms.CheckBox();
             this.checkBox72 = new System.Windows.Forms.CheckBox();
@@ -105,10 +57,6 @@
             this.checkBox29 = new System.Windows.Forms.CheckBox();
             this.checkBox30 = new System.Windows.Forms.CheckBox();
             this.checkBox25 = new System.Windows.Forms.CheckBox();
-            this.textBox25 = new System.Windows.Forms.TextBox();
-            this.textBox24 = new System.Windows.Forms.TextBox();
-            this.textBox22 = new System.Windows.Forms.TextBox();
-            this.textBox23 = new System.Windows.Forms.TextBox();
             this.checkBox26 = new System.Windows.Forms.CheckBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.lblICL = new System.Windows.Forms.Label();
@@ -150,7 +98,7 @@
             this.textBox4.ReadOnly = true;
             this.textBox4.Size = new System.Drawing.Size(479, 20);
             this.textBox4.TabIndex = 85;
-            this.textBox4.Text = "Array installation is neat and permanent";
+            this.textBox4.Text = "Inverter(s) is new and CEC approved";
             // 
             // textBox2
             // 
@@ -159,7 +107,7 @@
             this.textBox2.ReadOnly = true;
             this.textBox2.Size = new System.Drawing.Size(479, 20);
             this.textBox2.TabIndex = 83;
-            this.textBox2.Text = "Array is optimized for performance without sacrificing aesthetics";
+            this.textBox2.Text = "Confirm inverter model number matches plans";
             // 
             // textBox1
             // 
@@ -168,107 +116,7 @@
             this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(479, 20);
             this.textBox1.TabIndex = 82;
-            this.textBox1.Text = "PV modules are physically installed per plans (number and layout)";
-            // 
-            // checkBox76
-            // 
-            this.checkBox76.AutoSize = true;
-            this.checkBox76.Location = new System.Drawing.Point(121, 520);
-            this.checkBox76.Name = "checkBox76";
-            this.checkBox76.Size = new System.Drawing.Size(15, 14);
-            this.checkBox76.TabIndex = 77;
-            this.checkBox76.UseVisualStyleBackColor = true;
-            // 
-            // checkBox77
-            // 
-            this.checkBox77.AutoSize = true;
-            this.checkBox77.Location = new System.Drawing.Point(65, 520);
-            this.checkBox77.Name = "checkBox77";
-            this.checkBox77.Size = new System.Drawing.Size(15, 14);
-            this.checkBox77.TabIndex = 76;
-            this.checkBox77.UseVisualStyleBackColor = true;
-            // 
-            // checkBox78
-            // 
-            this.checkBox78.AutoSize = true;
-            this.checkBox78.Location = new System.Drawing.Point(15, 520);
-            this.checkBox78.Name = "checkBox78";
-            this.checkBox78.Size = new System.Drawing.Size(15, 14);
-            this.checkBox78.TabIndex = 75;
-            this.checkBox78.UseVisualStyleBackColor = true;
-            // 
-            // checkBox73
-            // 
-            this.checkBox73.AutoSize = true;
-            this.checkBox73.Location = new System.Drawing.Point(121, 500);
-            this.checkBox73.Name = "checkBox73";
-            this.checkBox73.Size = new System.Drawing.Size(15, 14);
-            this.checkBox73.TabIndex = 74;
-            this.checkBox73.UseVisualStyleBackColor = true;
-            // 
-            // checkBox74
-            // 
-            this.checkBox74.AutoSize = true;
-            this.checkBox74.Location = new System.Drawing.Point(65, 500);
-            this.checkBox74.Name = "checkBox74";
-            this.checkBox74.Size = new System.Drawing.Size(15, 14);
-            this.checkBox74.TabIndex = 73;
-            this.checkBox74.UseVisualStyleBackColor = true;
-            // 
-            // checkBox75
-            // 
-            this.checkBox75.AutoSize = true;
-            this.checkBox75.Location = new System.Drawing.Point(15, 500);
-            this.checkBox75.Name = "checkBox75";
-            this.checkBox75.Size = new System.Drawing.Size(15, 14);
-            this.checkBox75.TabIndex = 72;
-            this.checkBox75.UseVisualStyleBackColor = true;
-            // 
-            // checkBox37
-            // 
-            this.checkBox37.AutoSize = true;
-            this.checkBox37.Location = new System.Drawing.Point(121, 480);
-            this.checkBox37.Name = "checkBox37";
-            this.checkBox37.Size = new System.Drawing.Size(15, 14);
-            this.checkBox37.TabIndex = 71;
-            this.checkBox37.UseVisualStyleBackColor = true;
-            // 
-            // checkBox38
-            // 
-            this.checkBox38.AutoSize = true;
-            this.checkBox38.Location = new System.Drawing.Point(65, 480);
-            this.checkBox38.Name = "checkBox38";
-            this.checkBox38.Size = new System.Drawing.Size(15, 14);
-            this.checkBox38.TabIndex = 70;
-            this.checkBox38.UseVisualStyleBackColor = true;
-            // 
-            // checkBox39
-            // 
-            this.checkBox39.AutoSize = true;
-            this.checkBox39.Location = new System.Drawing.Point(15, 480);
-            this.checkBox39.Name = "checkBox39";
-            this.checkBox39.Size = new System.Drawing.Size(15, 14);
-            this.checkBox39.TabIndex = 69;
-            this.checkBox39.UseVisualStyleBackColor = true;
-            // 
-            // checkBox40
-            // 
-            this.checkBox40.AutoSize = true;
-            this.checkBox40.Location = new System.Drawing.Point(121, 451);
-            this.checkBox40.Name = "checkBox40";
-            this.checkBox40.Size = new System.Drawing.Size(15, 14);
-            this.checkBox40.TabIndex = 68;
-            this.checkBox40.UseVisualStyleBackColor = true;
-            // 
-            // textBox16
-            // 
-            this.textBox16.Location = new System.Drawing.Point(168, 324);
-            this.textBox16.Name = "textBox16";
-            this.textBox16.ReadOnly = true;
-            this.textBox16.Size = new System.Drawing.Size(479, 20);
-            this.textBox16.TabIndex = 98;
-            this.textBox16.Text = "Wiring is installed with shortest distance from PV panels to inverter or where ae" +
-    "sthetically suitable";
+            this.textBox1.Text = "Inverter is installed per work order";
             // 
             // textBox14
             // 
@@ -277,8 +125,7 @@
             this.textBox14.ReadOnly = true;
             this.textBox14.Size = new System.Drawing.Size(479, 20);
             this.textBox14.TabIndex = 96;
-            this.textBox14.Text = "Module interconnection conductors sunlight resistant, wet rated, 75ºC or 90ºC rat" +
-    "ed";
+            this.textBox14.Text = "Internet connection operational (if applicable)";
             // 
             // textBox13
             // 
@@ -287,7 +134,7 @@
             this.textBox13.ReadOnly = true;
             this.textBox13.Size = new System.Drawing.Size(479, 20);
             this.textBox13.TabIndex = 95;
-            this.textBox13.Text = "Module connectors tight and secure";
+            this.textBox13.Text = "Utility power connected";
             // 
             // textBox3
             // 
@@ -296,81 +143,7 @@
             this.textBox3.ReadOnly = true;
             this.textBox3.Size = new System.Drawing.Size(479, 20);
             this.textBox3.TabIndex = 84;
-            this.textBox3.Text = "Trees and plants will not grow tall enough to shade array";
-            // 
-            // checkBox41
-            // 
-            this.checkBox41.AutoSize = true;
-            this.checkBox41.Location = new System.Drawing.Point(65, 451);
-            this.checkBox41.Name = "checkBox41";
-            this.checkBox41.Size = new System.Drawing.Size(15, 14);
-            this.checkBox41.TabIndex = 67;
-            this.checkBox41.UseVisualStyleBackColor = true;
-            // 
-            // checkBox42
-            // 
-            this.checkBox42.AutoSize = true;
-            this.checkBox42.Location = new System.Drawing.Point(15, 451);
-            this.checkBox42.Name = "checkBox42";
-            this.checkBox42.Size = new System.Drawing.Size(15, 14);
-            this.checkBox42.TabIndex = 66;
-            this.checkBox42.UseVisualStyleBackColor = true;
-            // 
-            // checkBox43
-            // 
-            this.checkBox43.AutoSize = true;
-            this.checkBox43.Location = new System.Drawing.Point(121, 418);
-            this.checkBox43.Name = "checkBox43";
-            this.checkBox43.Size = new System.Drawing.Size(15, 14);
-            this.checkBox43.TabIndex = 65;
-            this.checkBox43.UseVisualStyleBackColor = true;
-            // 
-            // checkBox44
-            // 
-            this.checkBox44.AutoSize = true;
-            this.checkBox44.Location = new System.Drawing.Point(65, 418);
-            this.checkBox44.Name = "checkBox44";
-            this.checkBox44.Size = new System.Drawing.Size(15, 14);
-            this.checkBox44.TabIndex = 64;
-            this.checkBox44.UseVisualStyleBackColor = true;
-            // 
-            // checkBox46
-            // 
-            this.checkBox46.AutoSize = true;
-            this.checkBox46.Location = new System.Drawing.Point(121, 399);
-            this.checkBox46.Name = "checkBox46";
-            this.checkBox46.Size = new System.Drawing.Size(15, 14);
-            this.checkBox46.TabIndex = 62;
-            this.checkBox46.UseVisualStyleBackColor = true;
-            // 
-            // checkBox47
-            // 
-            this.checkBox47.AutoSize = true;
-            this.checkBox47.Location = new System.Drawing.Point(65, 399);
-            this.checkBox47.Name = "checkBox47";
-            this.checkBox47.Size = new System.Drawing.Size(15, 14);
-            this.checkBox47.TabIndex = 61;
-            this.checkBox47.UseVisualStyleBackColor = true;
-            // 
-            // textBox15
-            // 
-            this.textBox15.Location = new System.Drawing.Point(168, 343);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.ReadOnly = true;
-            this.textBox15.Size = new System.Drawing.Size(479, 20);
-            this.textBox15.TabIndex = 99;
-            this.textBox15.Text = "Wiring is neat and secure";
-            // 
-            // textBox6
-            // 
-            this.textBox6.Location = new System.Drawing.Point(168, 457);
-            this.textBox6.Multiline = true;
-            this.textBox6.Name = "textBox6";
-            this.textBox6.ReadOnly = true;
-            this.textBox6.Size = new System.Drawing.Size(479, 32);
-            this.textBox6.TabIndex = 87;
-            this.textBox6.Text = "Confirm metallic PV module frame grounding uses a dedicated grounding conductor o" +
-    "r the rack/module system is UL listed for grounding";
+            this.textBox3.Text = "Inverter is warranted (recommended 10 years minimum)";
             // 
             // textBox5
             // 
@@ -379,16 +152,7 @@
             this.textBox5.ReadOnly = true;
             this.textBox5.Size = new System.Drawing.Size(479, 20);
             this.textBox5.TabIndex = 86;
-            this.textBox5.Text = "Roof penetrations are secure and weather tight";
-            // 
-            // checkBox45
-            // 
-            this.checkBox45.AutoSize = true;
-            this.checkBox45.Location = new System.Drawing.Point(15, 418);
-            this.checkBox45.Name = "checkBox45";
-            this.checkBox45.Size = new System.Drawing.Size(15, 14);
-            this.checkBox45.TabIndex = 63;
-            this.checkBox45.UseVisualStyleBackColor = true;
+            this.textBox5.Text = "Wire and conduit sizes installed per plans";
             // 
             // textBox8
             // 
@@ -397,116 +161,7 @@
             this.textBox8.ReadOnly = true;
             this.textBox8.Size = new System.Drawing.Size(479, 20);
             this.textBox8.TabIndex = 89;
-            this.textBox8.Text = "PV modules warranted";
-            // 
-            // checkBox48
-            // 
-            this.checkBox48.AutoSize = true;
-            this.checkBox48.Location = new System.Drawing.Point(15, 399);
-            this.checkBox48.Name = "checkBox48";
-            this.checkBox48.Size = new System.Drawing.Size(15, 14);
-            this.checkBox48.TabIndex = 60;
-            this.checkBox48.UseVisualStyleBackColor = true;
-            // 
-            // checkBox49
-            // 
-            this.checkBox49.AutoSize = true;
-            this.checkBox49.Location = new System.Drawing.Point(121, 380);
-            this.checkBox49.Name = "checkBox49";
-            this.checkBox49.Size = new System.Drawing.Size(15, 14);
-            this.checkBox49.TabIndex = 59;
-            this.checkBox49.UseVisualStyleBackColor = true;
-            // 
-            // checkBox50
-            // 
-            this.checkBox50.AutoSize = true;
-            this.checkBox50.Location = new System.Drawing.Point(65, 380);
-            this.checkBox50.Name = "checkBox50";
-            this.checkBox50.Size = new System.Drawing.Size(15, 14);
-            this.checkBox50.TabIndex = 58;
-            this.checkBox50.UseVisualStyleBackColor = true;
-            // 
-            // checkBox51
-            // 
-            this.checkBox51.AutoSize = true;
-            this.checkBox51.Location = new System.Drawing.Point(15, 380);
-            this.checkBox51.Name = "checkBox51";
-            this.checkBox51.Size = new System.Drawing.Size(15, 14);
-            this.checkBox51.TabIndex = 57;
-            this.checkBox51.UseVisualStyleBackColor = true;
-            // 
-            // checkBox52
-            // 
-            this.checkBox52.AutoSize = true;
-            this.checkBox52.Location = new System.Drawing.Point(121, 361);
-            this.checkBox52.Name = "checkBox52";
-            this.checkBox52.Size = new System.Drawing.Size(15, 14);
-            this.checkBox52.TabIndex = 56;
-            this.checkBox52.UseVisualStyleBackColor = true;
-            // 
-            // checkBox53
-            // 
-            this.checkBox53.AutoSize = true;
-            this.checkBox53.Location = new System.Drawing.Point(65, 361);
-            this.checkBox53.Name = "checkBox53";
-            this.checkBox53.Size = new System.Drawing.Size(15, 14);
-            this.checkBox53.TabIndex = 55;
-            this.checkBox53.UseVisualStyleBackColor = true;
-            // 
-            // checkBox54
-            // 
-            this.checkBox54.AutoSize = true;
-            this.checkBox54.Location = new System.Drawing.Point(15, 361);
-            this.checkBox54.Name = "checkBox54";
-            this.checkBox54.Size = new System.Drawing.Size(15, 14);
-            this.checkBox54.TabIndex = 54;
-            this.checkBox54.UseVisualStyleBackColor = true;
-            // 
-            // checkBox55
-            // 
-            this.checkBox55.AutoSize = true;
-            this.checkBox55.Location = new System.Drawing.Point(121, 341);
-            this.checkBox55.Name = "checkBox55";
-            this.checkBox55.Size = new System.Drawing.Size(15, 14);
-            this.checkBox55.TabIndex = 53;
-            this.checkBox55.UseVisualStyleBackColor = true;
-            // 
-            // textBox18
-            // 
-            this.textBox18.Location = new System.Drawing.Point(168, 519);
-            this.textBox18.Name = "textBox18";
-            this.textBox18.ReadOnly = true;
-            this.textBox18.Size = new System.Drawing.Size(479, 20);
-            this.textBox18.TabIndex = 105;
-            this.textBox18.Text = "Dissimilar metals are electrically isolated to avoid galvanic corrosion";
-            // 
-            // textBox19
-            // 
-            this.textBox19.Location = new System.Drawing.Point(168, 438);
-            this.textBox19.Name = "textBox19";
-            this.textBox19.ReadOnly = true;
-            this.textBox19.Size = new System.Drawing.Size(479, 20);
-            this.textBox19.TabIndex = 104;
-            this.textBox19.Text = "No potential for wire damage (e.g., deburred metal and proper sheathing to protec" +
-    "t wires)";
-            // 
-            // textBox21
-            // 
-            this.textBox21.Location = new System.Drawing.Point(168, 400);
-            this.textBox21.Name = "textBox21";
-            this.textBox21.ReadOnly = true;
-            this.textBox21.Size = new System.Drawing.Size(479, 20);
-            this.textBox21.TabIndex = 102;
-            this.textBox21.Text = "Conduit supported properly";
-            // 
-            // textBox17
-            // 
-            this.textBox17.Location = new System.Drawing.Point(168, 305);
-            this.textBox17.Name = "textBox17";
-            this.textBox17.ReadOnly = true;
-            this.textBox17.Size = new System.Drawing.Size(479, 20);
-            this.textBox17.TabIndex = 97;
-            this.textBox17.Text = "Wire and conduit sizes installed per plans";
+            this.textBox8.Text = "Inverter is easily accessible";
             // 
             // textBox7
             // 
@@ -515,124 +170,7 @@
             this.textBox7.ReadOnly = true;
             this.textBox7.Size = new System.Drawing.Size(479, 20);
             this.textBox7.TabIndex = 88;
-            this.textBox7.Text = "PV module model number matches plans";
-            // 
-            // checkBox56
-            // 
-            this.checkBox56.AutoSize = true;
-            this.checkBox56.Location = new System.Drawing.Point(65, 341);
-            this.checkBox56.Name = "checkBox56";
-            this.checkBox56.Size = new System.Drawing.Size(15, 14);
-            this.checkBox56.TabIndex = 52;
-            this.checkBox56.UseVisualStyleBackColor = true;
-            // 
-            // checkBox57
-            // 
-            this.checkBox57.AutoSize = true;
-            this.checkBox57.Location = new System.Drawing.Point(15, 341);
-            this.checkBox57.Name = "checkBox57";
-            this.checkBox57.Size = new System.Drawing.Size(15, 14);
-            this.checkBox57.TabIndex = 51;
-            this.checkBox57.UseVisualStyleBackColor = true;
-            // 
-            // checkBox58
-            // 
-            this.checkBox58.AutoSize = true;
-            this.checkBox58.Location = new System.Drawing.Point(121, 322);
-            this.checkBox58.Name = "checkBox58";
-            this.checkBox58.Size = new System.Drawing.Size(15, 14);
-            this.checkBox58.TabIndex = 50;
-            this.checkBox58.UseVisualStyleBackColor = true;
-            // 
-            // checkBox59
-            // 
-            this.checkBox59.AutoSize = true;
-            this.checkBox59.Location = new System.Drawing.Point(65, 322);
-            this.checkBox59.Name = "checkBox59";
-            this.checkBox59.Size = new System.Drawing.Size(15, 14);
-            this.checkBox59.TabIndex = 49;
-            this.checkBox59.UseVisualStyleBackColor = true;
-            // 
-            // checkBox60
-            // 
-            this.checkBox60.AutoSize = true;
-            this.checkBox60.Location = new System.Drawing.Point(15, 322);
-            this.checkBox60.Name = "checkBox60";
-            this.checkBox60.Size = new System.Drawing.Size(15, 14);
-            this.checkBox60.TabIndex = 48;
-            this.checkBox60.UseVisualStyleBackColor = true;
-            // 
-            // checkBox61
-            // 
-            this.checkBox61.AutoSize = true;
-            this.checkBox61.Location = new System.Drawing.Point(121, 303);
-            this.checkBox61.Name = "checkBox61";
-            this.checkBox61.Size = new System.Drawing.Size(15, 14);
-            this.checkBox61.TabIndex = 47;
-            this.checkBox61.UseVisualStyleBackColor = true;
-            // 
-            // checkBox62
-            // 
-            this.checkBox62.AutoSize = true;
-            this.checkBox62.Location = new System.Drawing.Point(65, 303);
-            this.checkBox62.Name = "checkBox62";
-            this.checkBox62.Size = new System.Drawing.Size(15, 14);
-            this.checkBox62.TabIndex = 46;
-            this.checkBox62.UseVisualStyleBackColor = true;
-            // 
-            // checkBox63
-            // 
-            this.checkBox63.AutoSize = true;
-            this.checkBox63.Location = new System.Drawing.Point(15, 303);
-            this.checkBox63.Name = "checkBox63";
-            this.checkBox63.Size = new System.Drawing.Size(15, 14);
-            this.checkBox63.TabIndex = 45;
-            this.checkBox63.UseVisualStyleBackColor = true;
-            // 
-            // checkBox64
-            // 
-            this.checkBox64.AutoSize = true;
-            this.checkBox64.Location = new System.Drawing.Point(121, 284);
-            this.checkBox64.Name = "checkBox64";
-            this.checkBox64.Size = new System.Drawing.Size(15, 14);
-            this.checkBox64.TabIndex = 44;
-            this.checkBox64.UseVisualStyleBackColor = true;
-            // 
-            // checkBox65
-            // 
-            this.checkBox65.AutoSize = true;
-            this.checkBox65.Location = new System.Drawing.Point(65, 284);
-            this.checkBox65.Name = "checkBox65";
-            this.checkBox65.Size = new System.Drawing.Size(15, 14);
-            this.checkBox65.TabIndex = 43;
-            this.checkBox65.UseVisualStyleBackColor = true;
-            // 
-            // checkBox66
-            // 
-            this.checkBox66.AutoSize = true;
-            this.checkBox66.Location = new System.Drawing.Point(15, 284);
-            this.checkBox66.Name = "checkBox66";
-            this.checkBox66.Size = new System.Drawing.Size(15, 14);
-            this.checkBox66.TabIndex = 42;
-            this.checkBox66.UseVisualStyleBackColor = true;
-            // 
-            // checkBox67
-            // 
-            this.checkBox67.AutoSize = true;
-            this.checkBox67.Location = new System.Drawing.Point(121, 265);
-            this.checkBox67.Name = "checkBox67";
-            this.checkBox67.Size = new System.Drawing.Size(15, 14);
-            this.checkBox67.TabIndex = 41;
-            this.checkBox67.UseVisualStyleBackColor = true;
-            // 
-            // textBox20
-            // 
-            this.textBox20.Location = new System.Drawing.Point(168, 419);
-            this.textBox20.Name = "textBox20";
-            this.textBox20.ReadOnly = true;
-            this.textBox20.Size = new System.Drawing.Size(479, 20);
-            this.textBox20.TabIndex = 103;
-            this.textBox20.Text = "Electrical boxes are accessible and suitable for environment";
+            this.textBox7.Text = "Installation is neat and permanent";
             // 
             // tbPTFI
             // 
@@ -643,7 +181,7 @@
             this.tbPTFI.ReadOnly = true;
             this.tbPTFI.Size = new System.Drawing.Size(479, 15);
             this.tbPTFI.TabIndex = 94;
-            this.tbPTFI.Text = "Field Inspection - PV Modules and Array";
+            this.tbPTFI.Text = "Field Inspection – Inverter and Electrical";
             // 
             // textBox11
             // 
@@ -652,8 +190,7 @@
             this.textBox11.ReadOnly = true;
             this.textBox11.Size = new System.Drawing.Size(479, 20);
             this.textBox11.TabIndex = 92;
-            this.textBox11.Text = "String fuses or circuit breakers are DC-rated and no larger than module fuse rati" +
-    "ng ";
+            this.textBox11.Text = "Penetrations to building shell are sealed and fire resistance maintained";
             // 
             // textBox10
             // 
@@ -662,8 +199,7 @@
             this.textBox10.ReadOnly = true;
             this.textBox10.Size = new System.Drawing.Size(479, 20);
             this.textBox10.TabIndex = 91;
-            this.textBox10.Text = "Array is spaced a minimum of 1.5 inches off the roof, or is properly flashed into" +
-    " the roof";
+            this.textBox10.Text = "AC disconnect is permanently installed and accessible";
             // 
             // textBox9
             // 
@@ -672,16 +208,7 @@
             this.textBox9.ReadOnly = true;
             this.textBox9.Size = new System.Drawing.Size(479, 20);
             this.textBox9.TabIndex = 90;
-            this.textBox9.Text = "PV panels are new and Approved";
-            // 
-            // checkBox68
-            // 
-            this.checkBox68.AutoSize = true;
-            this.checkBox68.Location = new System.Drawing.Point(65, 265);
-            this.checkBox68.Name = "checkBox68";
-            this.checkBox68.Size = new System.Drawing.Size(15, 14);
-            this.checkBox68.TabIndex = 40;
-            this.checkBox68.UseVisualStyleBackColor = true;
+            this.textBox9.Text = "DC disconnect is DC-rated and permanently installed and readily accessible";
             // 
             // btnNext
             // 
@@ -689,7 +216,7 @@
             this.btnNext.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNext.Font = new System.Drawing.Font("Microsoft YaHei", 8F, System.Drawing.FontStyle.Bold);
             this.btnNext.ForeColor = System.Drawing.Color.White;
-            this.btnNext.Location = new System.Drawing.Point(734, 550);
+            this.btnNext.Location = new System.Drawing.Point(736, 312);
             this.btnNext.Name = "btnNext";
             this.btnNext.Size = new System.Drawing.Size(69, 25);
             this.btnNext.TabIndex = 110;
@@ -700,20 +227,9 @@
             // 
             this.richTextBox1.Location = new System.Drawing.Point(654, 61);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(149, 483);
+            this.richTextBox1.Size = new System.Drawing.Size(149, 245);
             this.richTextBox1.TabIndex = 109;
             this.richTextBox1.Text = "Notes:";
-            // 
-            // textBox26
-            // 
-            this.textBox26.Location = new System.Drawing.Point(168, 488);
-            this.textBox26.Multiline = true;
-            this.textBox26.Name = "textBox26";
-            this.textBox26.ReadOnly = true;
-            this.textBox26.Size = new System.Drawing.Size(479, 32);
-            this.textBox26.TabIndex = 108;
-            this.textBox26.Text = "Proper grounding of all other metallic surfaces that might possibly become energi" +
-    "zed (conduit, combiner boxes, disconnect enclosures, etc.) ";
             // 
             // textBox12
             // 
@@ -722,17 +238,7 @@
             this.textBox12.ReadOnly = true;
             this.textBox12.Size = new System.Drawing.Size(479, 20);
             this.textBox12.TabIndex = 93;
-            this.textBox12.Text = "PV modules are in good condition (no broken glass or cells, no discoloration, fra" +
-    "mes not damaged)";
-            // 
-            // checkBox69
-            // 
-            this.checkBox69.AutoSize = true;
-            this.checkBox69.Location = new System.Drawing.Point(15, 265);
-            this.checkBox69.Name = "checkBox69";
-            this.checkBox69.Size = new System.Drawing.Size(15, 14);
-            this.checkBox69.TabIndex = 39;
-            this.checkBox69.UseVisualStyleBackColor = true;
+            this.textBox12.Text = "Sum of PV breaker and panel main breaker less than 120% of panel rating";
             // 
             // checkBox70
             // 
@@ -851,42 +357,6 @@
             this.checkBox25.TabIndex = 26;
             this.checkBox25.UseVisualStyleBackColor = true;
             // 
-            // textBox25
-            // 
-            this.textBox25.Location = new System.Drawing.Point(168, 555);
-            this.textBox25.Name = "textBox25";
-            this.textBox25.ReadOnly = true;
-            this.textBox25.Size = new System.Drawing.Size(479, 20);
-            this.textBox25.TabIndex = 107;
-            this.textBox25.Text = "Protective fencing installed and will not shade array (if required)";
-            // 
-            // textBox24
-            // 
-            this.textBox24.Location = new System.Drawing.Point(168, 536);
-            this.textBox24.Name = "textBox24";
-            this.textBox24.ReadOnly = true;
-            this.textBox24.Size = new System.Drawing.Size(479, 20);
-            this.textBox24.TabIndex = 106;
-            this.textBox24.Text = "Aluminum is not placed in direct contact with concrete";
-            // 
-            // textBox22
-            // 
-            this.textBox22.Location = new System.Drawing.Point(168, 381);
-            this.textBox22.Name = "textBox22";
-            this.textBox22.ReadOnly = true;
-            this.textBox22.Size = new System.Drawing.Size(479, 20);
-            this.textBox22.TabIndex = 101;
-            this.textBox22.Text = "Conductors are not in contact with roof surface";
-            // 
-            // textBox23
-            // 
-            this.textBox23.Location = new System.Drawing.Point(168, 362);
-            this.textBox23.Name = "textBox23";
-            this.textBox23.ReadOnly = true;
-            this.textBox23.Size = new System.Drawing.Size(479, 20);
-            this.textBox23.TabIndex = 100;
-            this.textBox23.Text = "Wiring is not readily accessible";
-            // 
             // checkBox26
             // 
             this.checkBox26.AutoSize = true;
@@ -921,7 +391,7 @@
             this.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnClear.Font = new System.Drawing.Font("Microsoft YaHei", 8F, System.Drawing.FontStyle.Bold);
             this.btnClear.ForeColor = System.Drawing.Color.White;
-            this.btnClear.Location = new System.Drawing.Point(659, 550);
+            this.btnClear.Location = new System.Drawing.Point(661, 312);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(69, 25);
             this.btnClear.TabIndex = 111;
@@ -930,45 +400,6 @@
             // 
             // gbOptions
             // 
-            this.gbOptions.Controls.Add(this.checkBox76);
-            this.gbOptions.Controls.Add(this.checkBox77);
-            this.gbOptions.Controls.Add(this.checkBox78);
-            this.gbOptions.Controls.Add(this.checkBox73);
-            this.gbOptions.Controls.Add(this.checkBox74);
-            this.gbOptions.Controls.Add(this.checkBox75);
-            this.gbOptions.Controls.Add(this.checkBox37);
-            this.gbOptions.Controls.Add(this.checkBox38);
-            this.gbOptions.Controls.Add(this.checkBox39);
-            this.gbOptions.Controls.Add(this.checkBox40);
-            this.gbOptions.Controls.Add(this.checkBox41);
-            this.gbOptions.Controls.Add(this.checkBox42);
-            this.gbOptions.Controls.Add(this.checkBox43);
-            this.gbOptions.Controls.Add(this.checkBox44);
-            this.gbOptions.Controls.Add(this.checkBox45);
-            this.gbOptions.Controls.Add(this.checkBox46);
-            this.gbOptions.Controls.Add(this.checkBox47);
-            this.gbOptions.Controls.Add(this.checkBox48);
-            this.gbOptions.Controls.Add(this.checkBox49);
-            this.gbOptions.Controls.Add(this.checkBox50);
-            this.gbOptions.Controls.Add(this.checkBox51);
-            this.gbOptions.Controls.Add(this.checkBox52);
-            this.gbOptions.Controls.Add(this.checkBox53);
-            this.gbOptions.Controls.Add(this.checkBox54);
-            this.gbOptions.Controls.Add(this.checkBox55);
-            this.gbOptions.Controls.Add(this.checkBox56);
-            this.gbOptions.Controls.Add(this.checkBox57);
-            this.gbOptions.Controls.Add(this.checkBox58);
-            this.gbOptions.Controls.Add(this.checkBox59);
-            this.gbOptions.Controls.Add(this.checkBox60);
-            this.gbOptions.Controls.Add(this.checkBox61);
-            this.gbOptions.Controls.Add(this.checkBox62);
-            this.gbOptions.Controls.Add(this.checkBox63);
-            this.gbOptions.Controls.Add(this.checkBox64);
-            this.gbOptions.Controls.Add(this.checkBox65);
-            this.gbOptions.Controls.Add(this.checkBox66);
-            this.gbOptions.Controls.Add(this.checkBox67);
-            this.gbOptions.Controls.Add(this.checkBox68);
-            this.gbOptions.Controls.Add(this.checkBox69);
             this.gbOptions.Controls.Add(this.checkBox70);
             this.gbOptions.Controls.Add(this.checkBox71);
             this.gbOptions.Controls.Add(this.checkBox72);
@@ -1011,7 +442,7 @@
             this.gbOptions.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gbOptions.Location = new System.Drawing.Point(7, 42);
             this.gbOptions.Name = "gbOptions";
-            this.gbOptions.Size = new System.Drawing.Size(155, 537);
+            this.gbOptions.Size = new System.Drawing.Size(155, 264);
             this.gbOptions.TabIndex = 81;
             this.gbOptions.TabStop = false;
             this.gbOptions.Text = "YES            NO            N/A";
@@ -1245,36 +676,23 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(997, 763);
+            this.ClientSize = new System.Drawing.Size(817, 349);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.textBox16);
             this.Controls.Add(this.textBox14);
             this.Controls.Add(this.textBox13);
             this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox15);
-            this.Controls.Add(this.textBox6);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.textBox8);
-            this.Controls.Add(this.textBox18);
-            this.Controls.Add(this.textBox19);
-            this.Controls.Add(this.textBox21);
-            this.Controls.Add(this.textBox17);
             this.Controls.Add(this.textBox7);
-            this.Controls.Add(this.textBox20);
             this.Controls.Add(this.tbPTFI);
             this.Controls.Add(this.textBox11);
             this.Controls.Add(this.textBox10);
             this.Controls.Add(this.textBox9);
             this.Controls.Add(this.btnNext);
             this.Controls.Add(this.richTextBox1);
-            this.Controls.Add(this.textBox26);
             this.Controls.Add(this.textBox12);
-            this.Controls.Add(this.textBox25);
-            this.Controls.Add(this.textBox24);
-            this.Controls.Add(this.textBox22);
-            this.Controls.Add(this.textBox23);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.gbOptions);
@@ -1294,67 +712,19 @@
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.CheckBox checkBox76;
-        private System.Windows.Forms.CheckBox checkBox77;
-        private System.Windows.Forms.CheckBox checkBox78;
-        private System.Windows.Forms.CheckBox checkBox73;
-        private System.Windows.Forms.CheckBox checkBox74;
-        private System.Windows.Forms.CheckBox checkBox75;
-        private System.Windows.Forms.CheckBox checkBox37;
-        private System.Windows.Forms.CheckBox checkBox38;
-        private System.Windows.Forms.CheckBox checkBox39;
-        private System.Windows.Forms.CheckBox checkBox40;
-        private System.Windows.Forms.TextBox textBox16;
         private System.Windows.Forms.TextBox textBox14;
         private System.Windows.Forms.TextBox textBox13;
         private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.CheckBox checkBox41;
-        private System.Windows.Forms.CheckBox checkBox42;
-        private System.Windows.Forms.CheckBox checkBox43;
-        private System.Windows.Forms.CheckBox checkBox44;
-        private System.Windows.Forms.CheckBox checkBox46;
-        private System.Windows.Forms.CheckBox checkBox47;
-        private System.Windows.Forms.TextBox textBox15;
-        private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.CheckBox checkBox45;
         private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.CheckBox checkBox48;
-        private System.Windows.Forms.CheckBox checkBox49;
-        private System.Windows.Forms.CheckBox checkBox50;
-        private System.Windows.Forms.CheckBox checkBox51;
-        private System.Windows.Forms.CheckBox checkBox52;
-        private System.Windows.Forms.CheckBox checkBox53;
-        private System.Windows.Forms.CheckBox checkBox54;
-        private System.Windows.Forms.CheckBox checkBox55;
-        private System.Windows.Forms.TextBox textBox18;
-        private System.Windows.Forms.TextBox textBox19;
-        private System.Windows.Forms.TextBox textBox21;
-        private System.Windows.Forms.TextBox textBox17;
         private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.CheckBox checkBox56;
-        private System.Windows.Forms.CheckBox checkBox57;
-        private System.Windows.Forms.CheckBox checkBox58;
-        private System.Windows.Forms.CheckBox checkBox59;
-        private System.Windows.Forms.CheckBox checkBox60;
-        private System.Windows.Forms.CheckBox checkBox61;
-        private System.Windows.Forms.CheckBox checkBox62;
-        private System.Windows.Forms.CheckBox checkBox63;
-        private System.Windows.Forms.CheckBox checkBox64;
-        private System.Windows.Forms.CheckBox checkBox65;
-        private System.Windows.Forms.CheckBox checkBox66;
-        private System.Windows.Forms.CheckBox checkBox67;
-        private System.Windows.Forms.TextBox textBox20;
         private System.Windows.Forms.TextBox tbPTFI;
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.CheckBox checkBox68;
         private System.Windows.Forms.Button btnNext;
         private System.Windows.Forms.RichTextBox richTextBox1;
-        private System.Windows.Forms.TextBox textBox26;
         private System.Windows.Forms.TextBox textBox12;
-        private System.Windows.Forms.CheckBox checkBox69;
         private System.Windows.Forms.CheckBox checkBox70;
         private System.Windows.Forms.CheckBox checkBox71;
         private System.Windows.Forms.CheckBox checkBox72;
@@ -1368,10 +738,6 @@
         private System.Windows.Forms.CheckBox checkBox29;
         private System.Windows.Forms.CheckBox checkBox30;
         private System.Windows.Forms.CheckBox checkBox25;
-        private System.Windows.Forms.TextBox textBox25;
-        private System.Windows.Forms.TextBox textBox24;
-        private System.Windows.Forms.TextBox textBox22;
-        private System.Windows.Forms.TextBox textBox23;
         private System.Windows.Forms.CheckBox checkBox26;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label lblICL;

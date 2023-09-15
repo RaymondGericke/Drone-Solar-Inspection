@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="textBox13.Text" xml:space="preserve">
+    <value>Confirm the system power output under actual conditions meets expected output. Actua performance should be within about 5% of expected STC power. This procedure includes  system nameplate rating (kW), solar irradiance measurement (W/m2) and module cell  temperature (C). Procedure is best conducted during consistent weather conditions, where no array shading is present, and solar irradiance is not less than 400 W/m2</value>
+  </data>
   <data name="textBox11.Text" xml:space="preserve">
     <value>Measure and record maximum power point current (Imp) for each string. (Current measurements for each string should be within a 0.1A range of each other, assuming consistent weather conditions, and all string having same tilt and azimuth angle. If a string  is outside the range, check for shading or a ground fault.) </value>
   </data>

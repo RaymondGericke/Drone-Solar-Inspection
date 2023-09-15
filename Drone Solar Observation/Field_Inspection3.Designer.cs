@@ -154,9 +154,10 @@
             this.tbPTFI.Location = new System.Drawing.Point(14, 42);
             this.tbPTFI.Name = "tbPTFI";
             this.tbPTFI.ReadOnly = true;
-            this.tbPTFI.Size = new System.Drawing.Size(479, 15);
+            this.tbPTFI.Size = new System.Drawing.Size(623, 15);
             this.tbPTFI.TabIndex = 125;
-            this.tbPTFI.Text = "Field Inspection – Inverter and Electrical";
+            this.tbPTFI.Text = "Post Inspection - Performance Testing (performed by Installer or Independent Cont" +
+    "ractor)";
             // 
             // textBox11
             // 

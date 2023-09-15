@@ -59,6 +59,12 @@
     <Compile Include="Field Inspection2.Designer.cs">
       <DependentUpon>Field Inspection2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Field_Inspection3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Field_Inspection3.Designer.cs">
+      <DependentUpon>Field_Inspection3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +90,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Field Inspection2.resx">
       <DependentUpon>Field Inspection2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Field_Inspection3.resx">
+      <DependentUpon>Field_Inspection3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

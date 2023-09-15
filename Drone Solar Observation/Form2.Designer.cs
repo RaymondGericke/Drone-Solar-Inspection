@@ -319,6 +319,7 @@
             this.Controls.Add(this.btnNext);
             this.Controls.Add(this.panel10);
             this.Name = "Form2";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form2";
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
